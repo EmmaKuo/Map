@@ -1,0 +1,24 @@
+{
+   "breakfast": [
+        {
+            "ingredient": "oats",
+            "amount": 7,
+            "color": "rgb(255,100,100)"
+        },
+        {
+            "ingredient": "seeds",
+            "amount": 3,
+            "color": "rgb(100,255,100)"
+        },    
+        {
+            "ingredient": "berries",
+            "amount": 5,
+            "color": "rgb(100,100,255)"
+        },
+        {
+            "ingredient": "milk",
+            "amount": 15,
+            "color": "rgb(255,255,100)"
+        }
+    ]
+}
